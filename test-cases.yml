@@ -244,8 +244,7 @@
   requirement: |
     Пользователь должен иметь возможность оформить заказ
   prerequisites:
-    - Открыта главная страница https://hexlet-products-store.vercel.app/
-    - Товары добавлены в корзину
+    "Открыта главная страница https://hexlet-products-store.vercel.app/, товары добавлены в корзину"
   test-data: |
     Отсутствует
   steps:
