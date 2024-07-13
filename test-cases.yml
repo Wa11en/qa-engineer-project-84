@@ -198,7 +198,7 @@
   requirement: |
     Сайт должен иметь мобильную версию
   prerequisites:
-    - Открыто приложение интернет-магазина
+    - Открыта главная страница https://hexlet-products-store.vercel.app/
   test-data: |
     Отсутствует
   steps:
@@ -244,7 +244,8 @@
   requirement: |
     Пользователь должен иметь возможность оформить заказ
   prerequisites:
-    "Открыта главная страница https://hexlet-products-store.vercel.app/, товары добавлены в корзину"
+    - Открыта главная страница https://hexlet-products-store.vercel.app/
+    - Добавлены товары в корзину
   test-data: |
     Отсутствует
   steps:
