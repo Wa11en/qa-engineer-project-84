@@ -213,7 +213,7 @@
   requirement: |
     Сайт нужно протестировать на совместимость с последними версиями браузеров
   prerequisites:
-    - Установлены последние версии браузеров : Chrome, Mozilla FireFox, Edge, Safari, Yandex
+    - Установлены последние версии браузеров (Chrome, Mozilla FireFox, Edge, Safari, Yandex)
     - Открыта главная страница https://hexlet-products-store.vercel.app/
   test-data: |
     Отсутствует
