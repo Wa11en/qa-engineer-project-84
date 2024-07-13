@@ -137,8 +137,8 @@
   requirement: |
     Пользователь должен иметь возможность удалять товары из корзины
   prerequisites:
-    - Открыта главная страница https://hexlet-products-store.vercel.app/
-    - Добавлены товары в корзину
+    Открыта главная страница https://hexlet-products-store.vercel.app/
+    Добавлены товары в корзину
   test-data: |
     Отсутствует
   steps:
@@ -152,8 +152,8 @@
   requirement: |
     Пользователь должен иметь возможность удалять товары из корзины
   prerequisites:
-    - Открыта главная страница https://hexlet-products-store.vercel.app/
-    - Добавлены товары в корзину
+    Открыта главная страница https://hexlet-products-store.vercel.app/
+    Добавлены товары в корзину
   test-data: |
     Отсутствует
   steps:
@@ -167,7 +167,7 @@
   requirement: |
     Сайт нужно разработать с учетом удобства использования и оптимизировать для скорости работы
   prerequisites:
-    - Открыта главная страница https://hexlet-products-store.vercel.app/
+    Открыта главная страница https://hexlet-products-store.vercel.app/
   test-data: |
     Отсутствует
   steps:
@@ -184,7 +184,7 @@
   requirement: |
     Сайт должен быть безопасным и защищать данные пользователя
   prerequisites:
-    - Открыта главная страница https://hexlet-products-store.vercel.app/
+    Открыта главная страница https://hexlet-products-store.vercel.app/
   test-data: |
     Отсутствует
   steps:
@@ -198,7 +198,7 @@
   requirement: |
     Сайт должен иметь мобильную версию
   prerequisites:
-    - Открыта главная страница https://hexlet-products-store.vercel.app/
+    Открыта главная страница https://hexlet-products-store.vercel.app/
   test-data: |
     Отсутствует
   steps:
@@ -213,8 +213,8 @@
   requirement: |
     Сайт нужно протестировать на совместимость с последними версиями браузеров
   prerequisites:
-    - Установлены последние версии браузеров (Chrome, Mozilla FireFox, Edge, Safari, Yandex)
-    - Открыта главная страница https://hexlet-products-store.vercel.app/
+    Установлены последние версии браузеров (Chrome, Mozilla FireFox, Edge, Safari, Yandex)
+    Открыта главная страница https://hexlet-products-store.vercel.app/
   test-data: |
     Отсутствует
   steps:
@@ -229,7 +229,7 @@
   requirement: |
     Сайт должен быть доступен на различных устройствах
   prerequisites:
-    - Открыта главная страница https://hexlet-products-store.vercel.app/
+    Открыта главная страница https://hexlet-products-store.vercel.app/
   test-data: |
     Отсутствует
   steps:
@@ -244,8 +244,8 @@
   requirement: |
     Пользователь должен иметь возможность оформить заказ
   prerequisites:
-    - Открыта главная страница https://hexlet-products-store.vercel.app/
-    - Добавлены товары в корзину
+    Открыта главная страница https://hexlet-products-store.vercel.app/
+    Добавлены товары в корзину
   test-data: |
     Отсутствует
   steps:
@@ -261,7 +261,7 @@
   requirement: |
       Сайт должен иметь английскую версию
   prerequisites:
-    - Открыта главная страница https://hexlet-products-store.vercel.app/
+    Открыта главная страница https://hexlet-products-store.vercel.app/
   test-data: |
     Языки: Английский, Русский
   steps:
@@ -278,7 +278,7 @@
   requirement: |
     Пользователь должен иметь возможность просматривать товары с использованием пагинации
   prerequisites:
-    - Открыта главная страница https://hexlet-products-store.vercel.app/
+    Открыта главная страница https://hexlet-products-store.vercel.app/
   test-data: |
     Отсутствует
   steps:
